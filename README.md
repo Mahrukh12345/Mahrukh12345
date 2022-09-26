@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Mahrukh an Electrical Engineer
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning javasript
-- 💞️ I’m looking to collaborate on fronend engineer
+- 💞️ I’m looking to collaborate on backend engineer
+-  I have succesfully completed the following courses:
+      -Introduction to backend engineer
+      -Programming with Python
+      -Version Control
+      -Introduction to database
 - 📫 How to reach me 
 [linkedin](https://www.linkedin.com/in/mah-rukh-0313/)
 
